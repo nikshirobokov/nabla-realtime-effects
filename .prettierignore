@@ -34,3 +34,4 @@ LICENSE
 *.MD
 *.gitignore
 *.txt
+.husky
